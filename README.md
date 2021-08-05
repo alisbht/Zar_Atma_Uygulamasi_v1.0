@@ -5,5 +5,7 @@ Bilgisayar Programcılığı bölümünde okurken ödev gereği yaptığım bu b
 Zar Atma v1.0 Uygulama Özellikleri;
 
 -1-6 Zar yüzü görselleri
+
 -Çift zar bildirimi
+
 -Zar Sesi
