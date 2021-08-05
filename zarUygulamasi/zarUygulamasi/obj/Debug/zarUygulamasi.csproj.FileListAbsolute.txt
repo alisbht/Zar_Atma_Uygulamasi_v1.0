@@ -1,0 +1,22 @@
+D:\c# projelerim\FormUygulamalarım\zarUygulamasi\zarUygulamasi\bin\Debug\zarUygulamasi.exe.config
+D:\c# projelerim\FormUygulamalarım\zarUygulamasi\zarUygulamasi\bin\Debug\zarUygulamasi.exe
+D:\c# projelerim\FormUygulamalarım\zarUygulamasi\zarUygulamasi\bin\Debug\zarUygulamasi.pdb
+D:\c# projelerim\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.csprojAssemblyReference.cache
+D:\c# projelerim\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.Form1.resources
+D:\c# projelerim\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.giris.resources
+D:\c# projelerim\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.Properties.Resources.resources
+D:\c# projelerim\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.csproj.GenerateResource.cache
+D:\c# projelerim\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.csproj.CoreCompileInputs.cache
+D:\c# projelerim\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.exe
+D:\c# projelerim\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.pdb
+D:\Yazılım\c#\FormUygulamalarım\zarUygulamasi\zarUygulamasi\bin\Debug\zarUygulamasi.exe.config
+D:\Yazılım\c#\FormUygulamalarım\zarUygulamasi\zarUygulamasi\bin\Debug\zarUygulamasi.exe
+D:\Yazılım\c#\FormUygulamalarım\zarUygulamasi\zarUygulamasi\bin\Debug\zarUygulamasi.pdb
+D:\Yazılım\c#\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.csprojAssemblyReference.cache
+D:\Yazılım\c#\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.Form1.resources
+D:\Yazılım\c#\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.giris.resources
+D:\Yazılım\c#\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.Properties.Resources.resources
+D:\Yazılım\c#\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.csproj.GenerateResource.cache
+D:\Yazılım\c#\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.csproj.CoreCompileInputs.cache
+D:\Yazılım\c#\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.exe
+D:\Yazılım\c#\FormUygulamalarım\zarUygulamasi\zarUygulamasi\obj\Debug\zarUygulamasi.pdb
